@@ -62,14 +62,13 @@ Conheça algumas séries que mergulham no mundo da tecnologia e da programação
 
 
 
-A tecnologia está em todos os lugares e essas séries nos mostram diferentes facetas desse mundo fascinante. Não perca mais nenhum conteúdo! Siga-me no <a href="https://www.linkedin.com/in/gabrielalves-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- para ficar atualizado sobre programação e tecnologia, além dos meus projetos e minhas novas contribuições.
+A tecnologia está em todos os lugares e essas séries nos mostram diferentes facetas desse mundo fascinante. Não perca mais nenhum conteúdo! Siga-me no  Likendin para ficar atualizado sobre programação e tecnologia, além dos meus projetos e minhas novas contribuições.
 
-
+ <a href="https://www.linkedin.com/in/gabrielalves-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 Fontes de produção:
 
-Imagens eradas por: Lexica.art
+Imagens Geradas por: Lexica.art
 
 Conteúdo gerado por: ChatGPT e revisões humanas
 
